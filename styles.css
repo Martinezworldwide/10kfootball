@@ -34,3 +34,28 @@ button {
 button:hover {
     background-color: #218838;
 }
+
+/* Styles for the iFrame */
+.iframe-container {
+    margin: 2em auto;
+    width: 90%;
+    max-width: 800px;
+    text-align: center;
+}
+
+.iframe-container h2 {
+    margin-bottom: 1em;
+}
+
+.forum-iframe {
+    width: 100%;
+    height: 500px;
+    border: 2px solid #28a745;
+    border-radius: 10px;
+}
+
+.forum-iframe:hover {
+    border-color: #218838;
+}
+
+
