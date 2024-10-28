@@ -58,4 +58,24 @@ button:hover {
     border-color: #218838;
 }
 
+/* Styles for the Links */
+.link-container {
+    margin: 1em 0;
+}
+
+.team-link {
+    display: block;
+    margin: 0.5em auto;
+    padding: 0.75em 1.5em;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.team-link:hover {
+    background-color: #218838;
+}
 
